@@ -1,0 +1,29 @@
+#calculator{
+    border: 5px solid black;
+    border-radius: 5px;
+    width: 300px;
+    background-color:black ;
+
+}
+#display{
+    margin: 10px;
+    margin-left: 45px;
+    width: 200px;
+    height: 30px;
+    background-color: black;
+    color: white;
+}
+.button{
+    
+    margin-left: 40px;
+    padding: 10px;
+    
+}
+.key{
+    background-color: dimgray;
+    margin: 10px;
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    color: aliceblue;
+}
